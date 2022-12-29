@@ -1,3 +1,3 @@
 # POKEDEX
 
-### Deploy: willing-baseball.surge.sh
+### Deploy: https://willing-baseball.surge.sh/
