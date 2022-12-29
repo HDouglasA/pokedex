@@ -67,7 +67,7 @@ export const DetailsPage= () => {
 					</Img>
 				</section>
 				<Statics>
-						<h2>Statísticas:</h2>
+						<h2>Estatísticas:</h2>
 						<section>
 							<p>Pontos de Vida: {pokemonDetails.stats && pokemonDetails.stats[0].base_stat}</p>
 							<p>Ataque: {pokemonDetails.stats && pokemonDetails.stats[1].base_stat}</p>
@@ -83,7 +83,7 @@ export const DetailsPage= () => {
 						{types}
 					</Type>
 					<Moves>
-						<h2>movimentos:</h2>
+						<h2>Movimentos:</h2>
 						{moves}
 					</Moves>
 				</section>
