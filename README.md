@@ -1,3 +1,3 @@
 # POKEDEX
 
-### Deploy: https://willing-baseball.surge.sh/
+### Deploy: https://amuck-approval.surge.sh/
