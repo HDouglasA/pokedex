@@ -28,6 +28,5 @@
    Cada Pokémon é representado por um Card.
 </p>
 
-![home01](https://user-images.githubusercontent.com/102442943/210079364-d7157c24-2c61-430b-bd07-127868049b6f.png)
-![home02](https://user-images.githubusercontent.com/102442943/210079367-927d4907-aed7-429f-a3b7-716cdd8073c5.png)
+![home](https://user-images.githubusercontent.com/102442943/210081704-b8a86137-4043-48af-9f14-8a8900341d5d.png)
 
