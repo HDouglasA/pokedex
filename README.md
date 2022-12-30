@@ -27,7 +27,7 @@
    <br/>
    Cada Pokémon é representado por um Card;
    <br/>
-   Em cada card de Pokemon há um botão para adicioná-lo à Pokedex e um outro botão para acessar seus detalhes.
+   Em cada card de Pokémon há um botão para adicioná-lo à Pokédex e um outro botão para acessar seus detalhes.
 </p>
 
 ![home](https://user-images.githubusercontent.com/102442943/210081704-b8a86137-4043-48af-9f14-8a8900341d5d.png)
@@ -37,9 +37,9 @@
 ### Página POKEDEX:
 
 <p>
-   Responsável por receber os Pokemons previamente selecionados pelo Usuário;
+   Responsável por receber os Pokémons previamente selecionados pelo Usuário;
    <br/>
-   Em cada card de Pokemon há um botão para removê-lo da Pokédex e um outro botão para acessar seus detalhes.
+   Em cada card de Pokémon há um botão para removê-lo da Pokédex e um outro botão para acessar seus detalhes.
 </p>
 
 ![pokedex](https://user-images.githubusercontent.com/102442943/210083470-91e2a46e-1f56-416e-b994-519fdc802d97.png)
