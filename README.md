@@ -52,6 +52,8 @@
 
 ![detalhes](https://user-images.githubusercontent.com/102442943/210084376-a7e13436-6185-4121-9caf-580e0eb8930c.png)
 
+#
+
 ### Ferramentas e Tecnologias Utilizadas:
 
 - React
