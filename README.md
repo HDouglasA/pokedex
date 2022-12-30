@@ -23,7 +23,7 @@
 ### Página HOME:
 
 <p>
-   Essa é a página inicial do site. Responsável por exibir uma lista de Pokémons ao usuário;
+   Página inicial do site, responsável por exibir uma lista de Pokémons ao usuário;
    <br/>
    Cada Pokémon é representado por um Card;
    <br/>
